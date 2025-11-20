@@ -1,2 +1,2 @@
-# PhD_Thesis
+# PhD Thesis
 PhD Thesis
