@@ -8,6 +8,6 @@ Interdisciplinary Centre on Population Dynamics (CPop)
 ## Overview
 
 This repository contains the full set of materials associated with the PhD thesis:
-_Senescent Mortality: Estimates for Populations and Individuals_
+*Senescent Mortality: Estimates for Populations and Individuals*
 submitted to the University of Southern Denmark on 30 September 2025.
 
